@@ -17,5 +17,3 @@ https://telemost.yandex.ru/j/03513486547808
 Подключиться к конференции Zoom https://us04web.zoom.us/j/74979347830?pwd=KsnvZpmyYbXNd7K7Rpl0YAjiryhbyb.1
 
 Идентификатор конференции: 749 7934 7830 Код доступа: UVass9
-
-Добавил контакты в LegalEntity, удалил поле accident_aggregate_sum из Risk
