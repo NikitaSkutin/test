@@ -1,4 +1,7 @@
-Ваня - https://us05web.zoom.us/j/8948669031?pwd=SXlvR3gvQ3FUMjFiZkRmN2kralRIdz09 Леша - https://us04web.zoom.us/j/3435693533?pwd=NXc3NjVJQU0yR1FtZURFWWZTZit4dz09 Антон - https://us04web.zoom.us/j/5282362829?pwd=aXM5WjEyck1GYVd6SVQ3VXpxOTZIdz09 Я - https://zoom.us/j/8316727328?pwd=bsDo0et9SU9UBGHAwcRJaHNaf59m3I.1
+Ваня - https://us05web.zoom.us/j/8948669031?pwd=SXlvR3gvQ3FUMjFiZkRmN2kralRIdz09 
+Леша - https://us04web.zoom.us/j/3435693533?pwd=NXc3NjVJQU0yR1FtZURFWWZTZit4dz09 
+Антон - https://us04web.zoom.us/j/5282362829?pwd=aXM5WjEyck1GYVd6SVQ3VXpxOTZIdz09 
+Я - https://zoom.us/j/8316727328?pwd=bsDo0et9SU9UBGHAwcRJaHNaf59m3I.1
 
 https://motor.adinsure.sogaz.ru/
 
@@ -16,4 +19,3 @@ https://telemost.yandex.ru/j/03513486547808
 
 Подключиться к конференции Zoom https://us04web.zoom.us/j/74979347830?pwd=KsnvZpmyYbXNd7K7Rpl0YAjiryhbyb.1
 
-Идентификатор конференции: 749 7934 7830 Код доступа: UVass9
