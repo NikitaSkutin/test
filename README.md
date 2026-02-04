@@ -19,4 +19,6 @@ https://telemost.yandex.ru/j/03513486547808
 
 Подключиться к конференции Zoom https://us04web.zoom.us/j/74979347830?pwd=KsnvZpmyYbXNd7K7Rpl0YAjiryhbyb.1
 
-Добавил поле managerFullName в Application
+Удалил сущности Beneficiary и Driver
+В MemberType добавил BENEFICIARY и DRIVER
+В SpecialProgram добавил OTHER
