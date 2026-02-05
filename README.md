@@ -22,3 +22,12 @@ https://telemost.yandex.ru/j/03513486547808
 Удалил сущности Beneficiary и Driver
 В MemberType добавил BENEFICIARY и DRIVER
 В SpecialProgram добавил OTHER
+
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/76405319957?pwd=8aPjXWsDbEf9YvbhSNWU2aTbqbVMgu.1
+
+Идентификатор конференции: 764 0531 9957
+Код доступа: nsZS2P
+
+
+
