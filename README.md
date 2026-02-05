@@ -30,4 +30,8 @@ https://us04web.zoom.us/j/76405319957?pwd=8aPjXWsDbEf9YvbhSNWU2aTbqbVMgu.1
 Код доступа: nsZS2P
 
 
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/77440580722?pwd=dEjaPDcXCL2Nwl5fWwAingjRwrtGqJ.1
 
+Идентификатор конференции: 774 4058 0722
+Код доступа: LVq9G6
