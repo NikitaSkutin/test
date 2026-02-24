@@ -19,4 +19,8 @@ https://telemost.yandex.ru/j/03513486547808
 
 Подключиться к конференции Zoom https://us04web.zoom.us/j/74979347830?pwd=KsnvZpmyYbXNd7K7Rpl0YAjiryhbyb.1
 
-Добавил encumbranceCompanyId в Vehicle
+https://us04web.zoom.us/j/78748618919?pwd=FHl9E5oKZPp0jkGsIKD2pGmXAL0GaN.1
+
+Идентификатор конференции: 787 4861 8919
+Код доступа: 8QsyL6
+
