@@ -24,3 +24,4 @@ https://us04web.zoom.us/j/78748618919?pwd=FHl9E5oKZPp0jkGsIKD2pGmXAL0GaN.1
 Идентификатор конференции: 787 4861 8919
 Код доступа: 8QsyL6
 
+https://dion.vc/event/erenkov-alexey
