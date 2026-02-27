@@ -1,5 +1,5 @@
 Ваня - https://us05web.zoom.us/j/8948669031?pwd=SXlvR3gvQ3FUMjFiZkRmN2kralRIdz09 
-Леша - https://us04web.zoom.us/j/3435693533?pwd=NXc3NjVJQU0yR1FtZURFWWZTZit4dz09 
+Леша - https://dion.vc/event/erenkov-alexey 
 Антон - https://us04web.zoom.us/j/5282362829?pwd=aXM5WjEyck1GYVd6SVQ3VXpxOTZIdz09 
 Я - https://zoom.us/j/8316727328?pwd=bsDo0et9SU9UBGHAwcRJaHNaf59m3I.1
 
@@ -24,4 +24,4 @@ https://us04web.zoom.us/j/78748618919?pwd=FHl9E5oKZPp0jkGsIKD2pGmXAL0GaN.1
 Идентификатор конференции: 787 4861 8919
 Код доступа: 8QsyL6
 
-https://dion.vc/event/erenkov-alexey
+
