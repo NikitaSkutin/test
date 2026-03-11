@@ -24,8 +24,11 @@ https://us04web.zoom.us/j/78748618919?pwd=FHl9E5oKZPp0jkGsIKD2pGmXAL0GaN.1
 Идентификатор конференции: 787 4861 8919
 Код доступа: 8QsyL6
 
-Удалил поле combineLastPayments из Application и Policy
-Изменил тип данных полей damageCompensation и damageCompensationWithoutCertificates на List<DamageCompensation> и List<DamageCompensationWithoutCertificates>
-В BusinessType для поля USED_VEHICLE_PARK изменил отображаемое имя на "Б/у ТС Парк"
-В InsuranceProgram для поля OPTIMAL_CASCO изменил отображаемое имя на "Оптимальный КАСКО"
+Алексей Ковязин приглашает вас на запланированную конференцию: Zoom.
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/73964159530?pwd=55XadfqxrWphP2BSsp8gybN4YtYz1Q.1
+
+Идентификатор конференции: 739 6415 9530
+Код доступа: qP6J41
+
 
