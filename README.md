@@ -32,3 +32,7 @@ https://us04web.zoom.us/j/73964159530?pwd=55XadfqxrWphP2BSsp8gybN4YtYz1Q.1
 Код доступа: qP6J41
 
 
+https://us04web.zoom.us/j/73025336862?pwd=sK65JOYGYnnSzSFkYgVFRDv2aJGWHF.1
+
+Идентификатор конференции: 730 2533 6862
+Код доступа: 1j1ED8
