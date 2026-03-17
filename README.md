@@ -36,3 +36,6 @@ https://us04web.zoom.us/j/73025336862?pwd=sK65JOYGYnnSzSFkYgVFRDv2aJGWHF.1
 
 Идентификатор конференции: 730 2533 6862
 Код доступа: 1j1ED8
+
+
+https://telemost.yandex.ru/j/55046148379667
