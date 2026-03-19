@@ -26,10 +26,10 @@ https://us04web.zoom.us/j/78748618919?pwd=FHl9E5oKZPp0jkGsIKD2pGmXAL0GaN.1
 
 Алексей Ковязин приглашает вас на запланированную конференцию: Zoom.
 Подключиться к конференции Zoom
-https://us04web.zoom.us/j/73964159530?pwd=55XadfqxrWphP2BSsp8gybN4YtYz1Q.1
+https://us04web.zoom.us/j/72375474389?pwd=8qQwKYSKOjhRb3o3dvG6yDk9TeeRXt.1
 
-Идентификатор конференции: 739 6415 9530
-Код доступа: qP6J41
+Идентификатор конференции: 723 7547 4389
+Код доступа: SiFA17
 
 
 https://us04web.zoom.us/j/73025336862?pwd=sK65JOYGYnnSzSFkYgVFRDv2aJGWHF.1
