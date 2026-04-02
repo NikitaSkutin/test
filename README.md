@@ -33,3 +33,4 @@ https://us04web.zoom.us/j/73739535363?pwd=7agcUKGaAOs1x3r815GHsHb9ZQyjxq.1
 Идентификатор конференции: 737 3953 5363
 Код доступа: Q0PfyM
 
+https://dion.vc/event/yig-nfc-tpe
