@@ -36,3 +36,5 @@ https://us04web.zoom.us/j/73739535363?pwd=7agcUKGaAOs1x3r815GHsHb9ZQyjxq.1
 Ссылка для подключения:
 https://dion.vc/event/yig-nfc-tpe
 
+
+https://dion.vc/event/boltneva-larisa-frontend
