@@ -5,3 +5,6 @@ https://dion.vc/event/hjh-ofv-abo
 Я - https://zoom.us/j/8316727328?pwd=bsDo0et9SU9UBGHAwcRJaHNaf59m3I.1
 
 https://telemost.yandex.ru/j/37308980383283
+
+Ссылка на подключение
+https://dion.vc/event/yig-nfc-tpe
