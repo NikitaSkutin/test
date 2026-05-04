@@ -8,3 +8,5 @@ https://telemost.yandex.ru/j/37308980383283
 
 Ссылка на подключение
 https://dion.vc/event/yig-nfc-tpe
+
+https://dion.vc/event/roschenko-artur?showWeb=true
