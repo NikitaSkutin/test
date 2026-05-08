@@ -10,3 +10,20 @@ https://telemost.yandex.ru/j/37308980383283
 https://dion.vc/event/yig-nfc-tpe
 
 https://dion.vc/event/roschenko-artur?showWeb=true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus,metrics
+  endpoint:
+    prometheus:
+      access: unrestricted
+  metrics:
+    tags:
+      application: ${spring.application.name}
+    distribution:
+      percentiles-histogram:
+        http.server.requests: true
+      slo:
+        http.server.requests: 500ms,1s,2s,5s,10s,30s
