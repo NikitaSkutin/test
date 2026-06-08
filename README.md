@@ -17,5 +17,14 @@ https://us04web.zoom.us/j/8316727328?pwd=bsDo0et9SU9UBGHAwcRJaHNaf59m3I.1
 Идентификатор конференции: 831 672 7328
 Код доступа: S7c5yX
 
+Семён Жмурко приглашает вас на запланированную конференцию: Zoom.
+Подключиться к конференции Zoom
+https://us04web.zoom.us/j/71407053364?pwd=ANI3bHGrL4eaIJwH63k4PiRPnsbkLB.1
+
+Ссылка на чат конференции
+https://us04web.zoom.us/launch/jc/71407053364
+
+Идентификатор конференции: 714 0705 3364
+Код доступа: 3ehuDv
 
 
