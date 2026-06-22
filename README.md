@@ -27,4 +27,4 @@ https://us04web.zoom.us/launch/jc/71407053364
 Идентификатор конференции: 714 0705 3364
 Код доступа: 3ehuDv
 
-
+https://dion.vc/event/boltneva-larisa?showWeb=true
